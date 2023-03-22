@@ -2,7 +2,7 @@
 This is a project I am working on where I create a game engine.
 
 # Platforms supported:
-Only linux is supported so far. But I am adding windows support later.
+Linux and Windows are both supported.
 
 # Dependencies:
 X11 is the only dependency right now but that may change.
